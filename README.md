@@ -50,7 +50,7 @@ Use:
 sentence-transformers/all-MiniLM-L6-v2
 Convert text chunks → vectors
 
-8. 📦 Build vector database (FAISS)
+8. Build vector database (FAISS)
 Store embeddings in FAISS index
 Save it in:
 st.session_state.db
